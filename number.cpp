@@ -1,9 +1,3 @@
-/*
- PIC 10A Homework 1, number.cpp
- Author: Jacob Ramos
- Date: 1/27/23
- */
-
 #include <iostream>
 using namespace std;
 
